@@ -1,0 +1,18 @@
+{
+  "employee": [
+    {
+      "name": "neel",
+      "age": "58",
+      "email": "nee@gmail.com",
+      "status": "Inactive",
+      "id": 1
+    },
+    {
+      "name": "anu",
+      "age": "57",
+      "email": "anu@gmail.com",
+      "status": "Inactive",
+      "id": 2
+    }
+  ]
+}
